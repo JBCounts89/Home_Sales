@@ -1,7 +1,7 @@
 **Home_Sales with SparkSQL**  
 Module 22
 
-**My Comments**
+**My Comments**\
 Please see Home_Sales.ipynb for my work in Jupyter Notebook. Thank you!
 
 In this challenge, you'll use your knowledge of SparkSQL to determine key metrics about home
