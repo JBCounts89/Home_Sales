@@ -1,5 +1,8 @@
 **Home_Sales with SparkSQL**  
-Moduel 22
+Module 22
+
+**My Comments**
+Please see Home_Sales.ipynb for my work in Jupyter Notebook. Thank you!
 
 In this challenge, you'll use your knowledge of SparkSQL to determine key metrics about home
 sales data. Then you'll use Spark to create temporary views, partition the data, cache and
@@ -49,5 +52,3 @@ uncache a temporary table, and verify that the table has been uncached.
 
 14. Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
 
-**My Comments**
-Please see Home_Sales.ipynb for my work in Jupyter Notebook. Thank you!
